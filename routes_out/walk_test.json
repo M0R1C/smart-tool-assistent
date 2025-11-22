@@ -1,0 +1,186 @@
+{
+  "mouse_events": [],
+  "keyboard_events": [
+    {
+      "type": "press",
+      "key": "w",
+      "pressed": true,
+      "timestamp": 0.1759021999896504
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 0.37588659999892116
+    },
+    {
+      "type": "release",
+      "key": "shift_l",
+      "pressed": false,
+      "timestamp": 0.5688878999935696
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 1.3399891999870306
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 1.8446077999979025
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 1.8756982999911997
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 1.9068657999887364
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 1.953118599994923
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 1.9846468999894569
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 2.0156605999945896
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 2.0469426999916323
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 2.077434099992388
+    },
+    {
+      "type": "press",
+      "key": "shift_l",
+      "pressed": true,
+      "timestamp": 2.1089563999994425
+    },
+    {
+      "type": "press",
+      "key": "d",
+      "pressed": true,
+      "timestamp": 2.1322876999911387
+    },
+    {
+      "type": "release",
+      "key": "d",
+      "pressed": false,
+      "timestamp": 2.3380602999968687
+    },
+    {
+      "type": "release",
+      "key": "shift_l",
+      "pressed": false,
+      "timestamp": 3.3130900999967707
+    },
+    {
+      "type": "press",
+      "key": "ctrl_l",
+      "pressed": true,
+      "timestamp": 3.496110599997337
+    },
+    {
+      "type": "press",
+      "key": "space",
+      "pressed": true,
+      "timestamp": 3.5931609999970533
+    },
+    {
+      "type": "release",
+      "key": "ctrl_l",
+      "pressed": false,
+      "timestamp": 3.765178299989202
+    },
+    {
+      "type": "release",
+      "key": "space",
+      "pressed": false,
+      "timestamp": 3.771149099993636
+    },
+    {
+      "type": "press",
+      "key": "ctrl_l",
+      "pressed": true,
+      "timestamp": 4.326179899988347
+    },
+    {
+      "type": "press",
+      "key": "space",
+      "pressed": true,
+      "timestamp": 4.439304999992601
+    },
+    {
+      "type": "release",
+      "key": "ctrl_l",
+      "pressed": false,
+      "timestamp": 4.561188299994683
+    },
+    {
+      "type": "release",
+      "key": "space",
+      "pressed": false,
+      "timestamp": 4.586191399997915
+    },
+    {
+      "type": "press",
+      "key": "ctrl_l",
+      "pressed": true,
+      "timestamp": 5.175276399997529
+    },
+    {
+      "type": "press",
+      "key": "space",
+      "pressed": true,
+      "timestamp": 5.304342999996152
+    },
+    {
+      "type": "release",
+      "key": "ctrl_l",
+      "pressed": false,
+      "timestamp": 5.417262199989636
+    },
+    {
+      "type": "release",
+      "key": "space",
+      "pressed": false,
+      "timestamp": 5.4533769999979995
+    },
+    {
+      "type": "release",
+      "key": "w",
+      "pressed": false,
+      "timestamp": 6.642409399995813
+    }
+  ],
+  "total_duration": 7.3264452000003075,
+  "record_date": "2025-11-15T16:05:23.040883",
+  "metadata": {
+    "mouse_events_count": 0,
+    "keyboard_events_count": 29,
+    "recording_mode": "relative_mouse"
+  }
+}

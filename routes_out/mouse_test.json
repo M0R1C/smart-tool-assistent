@@ -1,0 +1,8862 @@
+{
+  "mouse_events": [
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9782025000022259
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 2,
+      "timestamp": 0.9790513000043575
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9812414000043646
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9820491999998922
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.983039099999587
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 0.9840419000101974
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9850255000055768
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9860142000106862
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 0.9880514000105904
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9890352000074927
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9900397000019439
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 1,
+      "timestamp": 0.9910630000085803
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 0.9920386000012513
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9930425000056857
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9940414000011515
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 0.9950582000019494
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9970242000126746
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 0.9980323000054341
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.0000699000083841
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.001032000000123
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.003093400009675
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0060803000087617
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.0431171000091126
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0501163000008091
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.0530437999987043
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0560679000045639
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.0570562000066275
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0580531000014162
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0590603000018746
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.060082700001658
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -1,
+      "timestamp": 1.0610355000098934
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.062031300010858
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0630454000056488
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.0650424000050407
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0660468999994919
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.0670498000108637
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -2,
+      "timestamp": 1.0680456000118284
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0701211000123294
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.071171300005517
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.0720532999985153
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0730388000083622
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.0740477000072133
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0750300000072457
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.0760620000073686
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0770572000037646
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.078057999999146
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.0790432000067085
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0811114000098314
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.0820722000062233
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.0830311000026995
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.084053099999437
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.0850381000054767
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.0870301000104519
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0880254000076093
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.089049200003501
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.0900449000037042
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.091073100003996
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -2,
+      "timestamp": 1.0920541000086814
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.093040400010068
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.094057000009343
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.0950374000094598
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.096050300009665
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.0970328000112204
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.0980692000011913
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.099057500003255
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1000544999988051
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1010491000051843
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.1020529000088573
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1030552000011085
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.1040682000020752
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1050703000073554
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -2,
+      "timestamp": 1.1060432000085711
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1070418000017526
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.108028500006185
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1090397000079975
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.1100402000010945
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1110317999991821
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.112035800004378
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1130383999989135
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.1140580000064801
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.115054300011252
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1160507000022335
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1170158000022639
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.118025800009491
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1190379000036046
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.120056800005841
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -2,
+      "timestamp": 1.1210318000084953
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1220767000049818
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1230288000078872
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.124055899999803
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.125069400004577
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1260428000095999
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1271417000098154
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.1280383999983314
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1290321000124095
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.1300403000059305
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1310302000056254
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1320411000051536
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.133029800010263
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.1340720000007423
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1350527000031434
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1360602000058861
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.1370698000100674
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1380478000064613
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1390506000025198
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1400526000070386
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1410355000116397
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1420414000021992
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1430532000085805
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.1440551000123378
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1450252000067849
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1460489000019152
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.14704980001261
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.148040600004606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1490366000070935
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.150040500011528
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.1510276000044541
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.152032900004997
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1530510000011418
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1540719000040554
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1550426000030711
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1560559000063222
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1570757000008598
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1580438000091817
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1590626000106568
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1600471999990987
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1610336000012467
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1620489000051748
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1630351000058
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1640597000077832
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1650682000035886
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1660346999997273
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1670412000094075
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1680536000058055
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1690500000113389
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1700645000091754
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1710337000113213
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.172040300007211
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1730660000030184
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1740405000018654
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1750616000063019
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 2,
+      "timestamp": 1.1760537000081968
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1770556999981636
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1780443000025116
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1790582000103313
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 1,
+      "timestamp": 1.180065900000045
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1810641000047326
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.182043300010264
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.183043600001838
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1840274999995017
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.1850679000053788
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 1,
+      "timestamp": 1.1860165000107372
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.187057700008154
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1880253999988781
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.189041300007375
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1900854000123218
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1910701000015251
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1920691000123043
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 1,
+      "timestamp": 1.193057000011322
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1940406000067014
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1950383000075817
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1961437999998452
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.1970516000001226
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.1980367000069236
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 2,
+      "timestamp": 1.1990700000023935
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2000571000098716
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.201049100011005
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2020578000083333
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2030865999986418
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2040624000073876
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 1,
+      "timestamp": 1.2050426000059815
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.206040100005339
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2070396000053734
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2080363999994006
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2090538000047673
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2100349000102142
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2110474000073737
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2120673000026727
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 1,
+      "timestamp": 1.2130783000029624
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2140724000055343
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2150587000069208
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2160396000108449
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2170371000102023
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.21805320000567
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2190313000028254
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2200676000065869
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 1,
+      "timestamp": 1.2210404000070412
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2220469000021694
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2230584000062663
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2240781000000425
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2250636000098893
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2261705999990227
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2270519000012428
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.22802710000542
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2290712000103667
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2300410000025295
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2310364000004483
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.232061300004716
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 2,
+      "timestamp": 1.233057400007965
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2340685000090161
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2350645000115037
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2360559000080684
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2370349999982864
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2380325999984052
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2390309000038542
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2400504000106594
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2410355000029085
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.242058600008022
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2430681000114419
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.244045500003267
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2451571999990847
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.246058400007314
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2470562000089558
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2480406000104267
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2490474000078393
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2500517000007676
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.251045700002578
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2520746000082
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2530682000069646
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2540717000083532
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2550636000087252
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2560522999992827
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2572426000115229
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2581027999985963
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2590955000050599
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2600741000060225
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.261052900008508
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2620403000037186
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2630379000038374
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.264068300006329
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2650374000077136
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2660559000069043
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.2670593000075314
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2680827000003774
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.269050300004892
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.270049900005688
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2710561999992933
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.272065900004236
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2730563000077382
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2740437000029488
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.2750888000009581
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2760329000011552
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.277070800002548
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2780534000048647
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.279051100005745
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.2800892000086606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2810530999995535
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2820509000011953
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.2830495000089286
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2840494999982184
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.285059600006207
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.286054399999557
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.2870630000106758
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.288093499999377
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2890675000089686
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -2,
+      "timestamp": 1.2900881000095978
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.2910556999995606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2920475999999326
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -1,
+      "timestamp": 1.2930549000011524
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.294044499998563
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2950521000020672
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.296053199999733
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.2970609000039985
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -1,
+      "timestamp": 1.2980492000060622
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.2990605000086362
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3000599000079092
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.3010637000115821
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3020730999996886
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -1,
+      "timestamp": 1.3030548000097042
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3040728000050876
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3050457000063034
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3060720000066794
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.307045300010941
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.308071999999811
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3090866999991704
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3101155000040308
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3110553000005893
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.3120626000018092
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3130529000045499
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3140559000021312
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3150377999991179
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3160911000013584
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.3170646000071429
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.318064700011746
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3190949999989243
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.320086200008518
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3210877000092296
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.322096000003512
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.323056200009887
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3240660000010394
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.325054300003103
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3260428000066895
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.327047600003425
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3280539000115823
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.32907440001145
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3300567000114825
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.3310695000109263
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.3320930000045337
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.333072000008542
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3340484000073047
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.3350557000085246
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3360571000084747
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.3370761000114726
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3380372000101488
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3390769000106957
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3400723000086145
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -1,
+      "timestamp": 1.341060100006871
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.342067900011898
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3430661000020336
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3440544000040973
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.345042300003115
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3460422000061953
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.347073900004034
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.348054800007958
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": 0,
+      "timestamp": 1.3490854000119725
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3500830000120914
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3510571000078926
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.352069800006575
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3530629000015324
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3540504999982659
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3550585000048159
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -1,
+      "timestamp": 1.356049100009841
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.3571087000018451
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3580610000062734
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3590551000088453
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3600491000106558
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.3610731000080705
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.362092000010307
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.363056800008053
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3640676000068197
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3650609000033
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3660522999998648
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3671012000122573
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3680457000009483
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3690509000007296
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3701139000040712
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3710745999997016
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3720911999989767
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3730655000108527
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.374054400002933
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.375044300002628
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.3760406000074
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3771085000043968
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.3780468000040855
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3790841000009095
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3800665000017034
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.381068700007745
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3821083000075305
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.3830720000114525
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3840641999995569
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.3850860000093235
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.3861021000047913
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3870632000034675
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.3880413000006229
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3890972000081092
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.390044100000523
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.391056500011473
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.3920791999989888
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.3930789000005461
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.394062400009716
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3950602000113577
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.396057900012238
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.3970570000092266
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.3980463000043528
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.3990521000087028
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.400060800006031
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4010727999993833
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4020801000006031
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4030678999988595
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.4040772000007564
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4050556000001961
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4060732000070857
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4070544999995036
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4080462999991141
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4090800000121817
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.410087600001134
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.411070700007258
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4120670999982394
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.413093499999377
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4140695000096457
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.415075800003251
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.4160520000004908
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4170557000034023
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.4180633000069065
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.4190634000115097
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.420052500005113
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4210663999983808
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4220721000019694
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4231299000093713
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.424059600001783
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4250662000122247
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -5,
+      "dy": -1,
+      "timestamp": 1.4260378000035416
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4270683000067947
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4282425999990664
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4290795999986585
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.4300694000121439
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4310594999988098
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4320657000062056
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4330779000010807
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.434069200011436
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4350646000093548
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4360642000101507
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.4370668000046862
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4380508000031114
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.439064900012454
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4400652000040282
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4410644000017783
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4420782000088366
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4430752000043867
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4441029000008712
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4450730000098702
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.4460939999989932
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4470736000075703
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.4480516000039643
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4490760000044247
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.4500624000065727
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4510909000091488
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.4520613000058802
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4530693000124302
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -2,
+      "timestamp": 1.4540888000046834
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.455088100003195
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4560616000089794
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.457067700001062
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4580770000029588
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4590880000032485
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4600737000000663
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": 0,
+      "timestamp": 1.4610702000063611
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.462069800007157
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4630685000011
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.4640833000012208
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4650836000073468
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.466062300009071
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4670711000071606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -2,
+      "timestamp": 1.4680652000097325
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.469078599999193
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4700723999994807
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -4,
+      "dy": -1,
+      "timestamp": 1.4710468999983277
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.472073900004034
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.473108800011687
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4740995000029216
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4750822000059998
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4760634999984177
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4770695000042906
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.4780500000051688
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.47906180001155
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4800717000034638
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.481093200010946
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4820717000111472
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.4830885000119451
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4840804999985266
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4850883000035537
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4860753000102704
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.4870722000050591
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.488122700000531
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.4890678000083426
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.4900740000011865
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4910773000010522
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.49207180000667
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.4930816999985836
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4940780000033556
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.4950862000114284
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4960680000076536
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.4970661000115797
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.4980695999984164
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.4990607000072487
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5000699000083841
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5010982000094373
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.5021120000019437
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5030929000058677
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5040722000121605
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5050863000069512
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5060613000096055
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5070764999982202
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5080643000110285
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5090743000037037
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5100756000028923
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5110907000052975
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5120704000000842
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.513081199998851
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5140957000112394
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -2,
+      "timestamp": 1.5150729000015417
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5160828000080073
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.517061200007447
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5180657000018982
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.519084200001089
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5200799000012921
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.52119080000557
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5220924000022933
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.523073000003933
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5240763000037987
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.52504890000273
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5260702000086894
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.527048100004322
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -2,
+      "timestamp": 1.5280840000050375
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5290806999983033
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5300847000034992
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5311074000055669
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.5320778000022983
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5330656000005547
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.534078100012266
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.535076800006209
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5360657999990508
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5370832000044174
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5380766000016592
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.5390886000095634
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5400851000013063
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5410903000010876
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5421082000102615
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.5430746000056388
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.544098500002292
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5450674000021536
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5460816999984672
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5471850000030827
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.548070300006657
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5490771000040695
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.5501136000093538
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5510746000072686
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.552176099998178
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5530667999992147
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.5540727000043262
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5550599000125658
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.556077400004142
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5571028999984264
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5580800000025192
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -2,
+      "timestamp": 1.5591245000105118
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5600998000008985
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5610718000098132
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5620876000029966
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5630652000108967
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5645860000076937
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.565067600007751
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5660682000016095
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5670835000055376
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.568119100003969
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.569116099999519
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5701139000011608
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5710860000108369
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.5720876000123098
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5730695000092965
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.574070100003155
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.575076799999806
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5761021000071196
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.577078900008928
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5781193000002531
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -2,
+      "timestamp": 1.5791070999985095
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.580084600005648
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5810768000083044
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5820746000099462
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.5831027000094764
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.5840790000074776
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.585068800006411
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5860767999984091
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5871007000096142
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.588088800010155
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -1,
+      "timestamp": 1.589090599998599
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.590070400008699
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5910742999985814
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5920763000031002
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5931730000011157
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5940652999997837
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5950982000067597
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.5960824000067078
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.5970713999995496
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5980974999984028
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.5991166000021622
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6000774999993155
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6010749000124633
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.602087000006577
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.603085499998997
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": -2,
+      "timestamp": 1.6040703000035137
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.60509070000262
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6060977000015555
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6070736000110628
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6081203000067035
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6091042000043672
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.610093200011761
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6110773000109475
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -1,
+      "timestamp": 1.6120674999983748
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6131397999997716
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6140901000035228
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.61509130000195
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6160784000094282
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6171017000015127
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6180804000032367
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6191287000110606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6201160000055097
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6210767000011401
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.622072099999059
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.623072600006708
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6240692999999737
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6250911000097403
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.626098600012483
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6271014000085415
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6281491000117967
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6290891000098782
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6301438000082271
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6311159000033513
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6321068000106607
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.633108900001389
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6340859000047203
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6350867000001017
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.636082000011811
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6370901000045706
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6380907999991905
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6391090000106487
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6400887000054354
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6410822000034386
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6420826000103261
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6430837000079919
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6440792000066722
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.645097300002817
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6460834000026807
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": -1,
+      "timestamp": 1.6470852000056766
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6480856999987736
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6491195999988122
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6501056999986758
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.651063700002851
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6520652000035625
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.653086300007999
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.655099000010523
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6560742000001483
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6570988000021316
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6580939999985276
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.660142500011716
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6610865000111517
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6620746000116924
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6630597000039415
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6640606000000844
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6650702000042656
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6660703000088688
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6670807000045897
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6681133000092814
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6691138000023784
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6700953000108711
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -3,
+      "dy": 0,
+      "timestamp": 1.6710785000032047
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6730990000069141
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6740852000075392
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.675092700010282
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6761574000120163
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6770728999981657
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6781034000014188
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6801625000080094
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6810755000042263
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6820970000117086
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.683083700001589
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6840877000067849
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6850833000062266
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.68610130000161
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6871097000112059
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6880833000031998
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.6901420000067446
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6910882000083802
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6921205000107875
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6941005000117002
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.695073200011393
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6961240000091493
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.6981315000011818
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7001511999987997
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7010832000087248
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7020878000039374
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7040983000042615
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7050672000041232
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7060826000088127
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7081509999989066
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7091121999983443
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7111253000039142
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7120971000113059
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": -2,
+      "timestamp": 1.7140991000051145
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7161145999998553
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7181557000003522
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7191183000104502
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7211421000101836
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7230948000069475
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7250872000004165
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7260987000045134
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7280891000118572
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7301863000029698
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7310927000071388
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7320957000047201
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7340876000089338
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7350814000092214
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7371069000073476
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7391499000077602
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7401377000060165
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.742115000000922
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.743082200002391
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7451604000088992
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.747090200005914
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7480987000017194
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7501551000023028
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7511091000051238
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7531078000029083
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7540835000108927
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7561266999982763
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7571041000046534
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7581178000109503
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7601743000122951
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7611071999999695
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.76413660000253
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7651072000007844
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7671266000106698
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7680984000035096
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7701520000118762
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7721160000073723
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.77308160001121
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7750897000078112
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7771133000060217
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7792087999987416
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.780112200009171
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7810906000086106
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7820963999984087
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7841099000070244
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.785080100002233
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7860828000120819
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7881565999996383
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7891266000078758
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7901091000094311
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7921099000086542
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7931014000059804
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 1,
+      "timestamp": 1.7940804000099888
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7960959000047296
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.7970996000076411
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.7991113000025507
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8001258000003872
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8011400000104913
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8021039000013843
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.8030849000060698
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8050956000079168
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8061077000020305
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8071179000107804
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 1,
+      "timestamp": 1.8081037000083597
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.810203500004718
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8111097000073642
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.813120800012257
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.815097099999548
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8181664000003366
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8201765000121668
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8221338000003016
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 1,
+      "timestamp": 1.825113800005056
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8281209000124363
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8311842000111938
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8341217999986839
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.838173200012534
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8421898000087822
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8461504000006244
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 1.8481574000034016
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8511531000112882
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.8561556000058772
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8621686000115005
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8671701999992365
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.874160400009714
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 1,
+      "timestamp": 1.878238400007831
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.885162999999011
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.8911860000080196
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.8961794000060763
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.898188500010292
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.9021586000017123
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.9111565000057453
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.9131185000005644
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.9461741999984952
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 1.9481712999986485
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.954180600005202
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.9582175000105053
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.9611844000028213
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.966193000000203
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.968181000003824
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 1.9701321000029566
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.9741762000048766
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.975142399998731
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.979201499998453
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 1.9811163000122178
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.9841408000065712
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 2,
+      "timestamp": 1.9891972000041278
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.99416870001005
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 1.995164100007969
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 1.9971657999994932
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 1,
+      "timestamp": 2.0042081999999937
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 2.0082477000105428
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.013183300005039
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.0171962000022177
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.027184800012037
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.036193500010995
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 2.0421816000016406
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.04922310000984
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 1,
+      "timestamp": 2.0551803999987897
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.062201600012486
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.0631136000010883
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 2.0692132000112906
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.0721679999987828
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.0741315000050236
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.0771813000028487
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.08023220000905
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.082164000006742
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.0861637000052724
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.0891970000084257
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 2.090125500006252
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.0921425000124145
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.095162600002368
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.096139800007222
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.099204700003611
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.100138200010406
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1011102000047686
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.1051373000082094
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.1081741000089096
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 2.1091499000031035
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1101319000008516
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1121433000080287
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.1151500000123633
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.116118300007656
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.119208100004471
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.121140800009016
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1231267000111984
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 1,
+      "timestamp": 2.1251284000027226
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.126160500003607
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.128188600006979
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 2,
+      "timestamp": 2.131184600002598
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1331321000034222
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.137204600003315
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.138153700012481
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.140177400011453
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.143135100006475
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.1461580000031972
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.147136400002637
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.150185700011207
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1531428000016604
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.155118800001219
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1581727000011597
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.161195400010911
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 1,
+      "timestamp": 2.1631192000058945
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.164113600010751
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1661394000111613
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1692431999981636
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.172213300000294
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.1741331000084756
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.176145200006431
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1782044999999925
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1811886000068625
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.183146300012595
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.186151500005508
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1871530000062194
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1892144000012195
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.1922062000085134
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.195151200008695
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.197152200009441
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.1991803999990225
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.202212000003783
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.204116000008071
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2071584000077564
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2091323000058765
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.21121320000384
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2131618999992497
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2161464000091655
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2202275000017835
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.2221764999994775
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.226151900002151
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.229171500002849
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.234204000007594
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.238219000006211
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2452124999981606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.251210500005982
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2592354000080377
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.267174500011606
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": 2,
+      "timestamp": 2.2712028000096325
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.2781878000096185
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.286205299998983
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.3022122000111267
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.3081988000049023
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.3182155000104103
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.326218800008064
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.337215200008359
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 2,
+      "dy": 0,
+      "timestamp": 2.3451982000115095
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 1,
+      "dy": 0,
+      "timestamp": 2.3692269000021042
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.5132557000033557
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.523211600011564
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.54122750001261
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -1,
+      "timestamp": 2.5642384000093443
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.5682157000119332
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -1,
+      "timestamp": 2.6242293000104837
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -2,
+      "dy": 0,
+      "timestamp": 2.632253200004925
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -1,
+      "timestamp": 2.645247400010703
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.663257899999735
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -2,
+      "timestamp": 2.668235700009973
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -1,
+      "timestamp": 2.6882520000071963
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": -1,
+      "dy": 0,
+      "timestamp": 2.696221600010176
+    },
+    {
+      "type": "move_relative",
+      "x": null,
+      "y": null,
+      "button": null,
+      "pressed": null,
+      "dx": 0,
+      "dy": -1,
+      "timestamp": 2.7432459000119707
+    }
+  ],
+  "keyboard_events": [],
+  "total_duration": 5.106370900000911,
+  "record_date": "2025-11-15T15:37:16.312192",
+  "metadata": {
+    "mouse_events_count": 885,
+    "keyboard_events_count": 0,
+    "recording_mode": "relative_mouse"
+  }
+}
