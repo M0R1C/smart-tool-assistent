@@ -1,0 +1,10 @@
+PySide6
+pynput
+win10toast
+keyboard
+mss
+pyautogui
+opencv-python
+numpy
+pytesseract
+easyocr
