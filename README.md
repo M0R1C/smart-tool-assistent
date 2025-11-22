@@ -31,5 +31,4 @@
 5. **Запустите** `smart_overlay_macro.py`
 
 ```bash
-# Альтернативный способ запуска через командную строку
 python smart_overlay_macro.py
