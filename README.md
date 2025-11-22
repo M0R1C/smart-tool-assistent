@@ -24,7 +24,7 @@
 ## ⚡ Быстрый старт
 
 ### Установка и запуск:
-1. **Скачайте архив** из [последнего релиза](https://github.com/yourusername/yourrepo/releases)
+1. **Скачайте архив** из [последнего релиза](https://github.com/M0R1C/smart-tool-assistent/releases/tag/Release)
 2. **Разархивируйте** в удобное место
 3. **Установите Python** (рекомендуется версия 3.11.8)
 4. **Запустите** `install_requirements.bat`
